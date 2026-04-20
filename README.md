@@ -22,7 +22,7 @@
 
 **lesson_6.1** - Decision tree ML model
 
-**lesson_6.2** - Neural Network for regression regression
+**lesson_6.2** - Neural Network for regression tasks
 
 **lesson_7.1** - Consolidation week
 
